@@ -6,8 +6,6 @@
 The first 10 is the initial value of the x; The sencond 10 is the margin set for the where line could be drawn (x can only be increased to width - 10, which means it has to be 10 pxs away from the canvas horizontal side). The third 10 is the value that x increase each loop.<br>
 <br>
 <br>
-<br>
-<br>
 
 <b>B</b><br>
 <b>1. How many times does the loop body run each frame, once the x and y arrays are full?</b><br>
